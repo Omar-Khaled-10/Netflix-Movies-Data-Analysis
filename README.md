@@ -30,6 +30,10 @@ The project follows a clean, decoupled structure, separating the core analysis l
 
 [Image of a Multi-Agent System Architecture Diagram]
 
+
+<img width="2048" height="1453" alt="image" src="https://github.com/user-attachments/assets/f87cef96-d5f7-4642-acc7-cde07cc69190" />
+
+
 ### Backend: Python (Flask & Gemini)
 
 The heart of the application, responsible for reading code, managing jobs, and interfacing with the LLM.
