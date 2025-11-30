@@ -28,7 +28,6 @@ This platform employs a robust system of nine specialized LLM agents, each stric
 
 The project follows a clean, decoupled structure, separating the core analysis logic (Python) from the user interface (Frontend).
 
-[Image of a Multi-Agent System Architecture Diagram]
 
 
 <img width="2048" height="1453" alt="image" src="https://github.com/user-attachments/assets/f87cef96-d5f7-4642-acc7-cde07cc69190" />
